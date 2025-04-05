@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f8f9c722.css",
-    "main.js": "/static/js/main.1f7d9288.js",
+    "main.js": "/static/js/main.836a122d.js",
     "static/js/453.508d8697.chunk.js": "/static/js/453.508d8697.chunk.js",
     "static/media/dronesurvey.mp4": "/static/media/dronesurvey.ddeda3fc2d55fe0aab1f.mp4",
     "static/media/sarojVideo.mp4": "/static/media/sarojVideo.1b196fb49e0e95f79868.mp4",
@@ -58,17 +58,14 @@
     "static/media/bhartiInfra.png": "/static/media/bhartiInfra.447104596764a1f10a8b.png",
     "static/media/java.png": "/static/media/java.f1b2e280117a9282204a.png",
     "static/media/acme.png": "/static/media/acme.19548c55a228f4dd9178.png",
-    "static/media/yash.jpg": "/static/media/yash.e519ba88d58d08f12617.jpg",
     "static/media/React.webp": "/static/media/React.2a0cac33f155e4a27216.webp",
     "static/media/ang.png": "/static/media/ang.cfa3e0892ad261b26126.png",
     "static/media/php.png": "/static/media/php.0c2a8e7f076a158c71be.png",
     "static/media/shantanu sir.png": "/static/media/shantanu sir.be3c0b13fb69bf47e12c.png",
     "static/media/aksharfee.webp": "/static/media/aksharfee.360c1c9197bb940e87f8.webp",
-    "static/media/data-science-icon-blue.svg": "/static/media/data-science-icon-blue.6a11927f669b89bf6b99c48412d5e8ee.svg",
     "static/media/azure.webp": "/static/media/azure.0069e241804d7735a6b7.webp",
     "static/media/docker.webp": "/static/media/docker.c34f3ea1155c0e62353c.webp",
     "index.html": "/index.html",
-    "static/media/cyber-security-icon-blue.svg": "/static/media/cyber-security-icon-blue.5b99bf2ea76223ce49c6a42cac50f987.svg",
     "static/media/2.svg": "/static/media/2.febd0122923934f0b4cc380a06a2d255.svg",
     "static/media/3.svg": "/static/media/3.2e28890423242dcbe7929fdc2ffaca86.svg",
     "static/media/44.webp": "/static/media/44.1db229e9b5d55974d4cc.webp",
@@ -80,11 +77,11 @@
     "static/media/6.svg": "/static/media/6.3aaf23e22e91b6e0f37b18be26290793.svg",
     "static/media/1.svg": "/static/media/1.95444894615e12e92eec10648ad87d66.svg",
     "main.f8f9c722.css.map": "/static/css/main.f8f9c722.css.map",
-    "main.1f7d9288.js.map": "/static/js/main.1f7d9288.js.map",
+    "main.836a122d.js.map": "/static/js/main.836a122d.js.map",
     "453.508d8697.chunk.js.map": "/static/js/453.508d8697.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8f9c722.css",
-    "static/js/main.1f7d9288.js"
+    "static/js/main.836a122d.js"
   ]
 }
